@@ -1,61 +1,61 @@
 export const slides = [
   {
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKhfTtSp78QuOvdqLhEzKoxJL83GYOxUxmFcuSYYul-dNCydjE983HtBuqzJk-OcsPSs&usqp=CAU",
-    title: "Light Mask",
+      "https://firebasestorage.googleapis.com/v0/b/clone-app-3ff66.appspot.com/o/images%2Fmarguerite-729510_1920.jpg?alt=media&token=1c941d1f-615c-4dd5-9a23-99ec1c97d0cb",
+    title: "Title 1",
     subTitle: "subtitle 1",
   },
   {
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDqT4w2Bxqns1A5uxDQHydgEixmAySMgVBAQiseKfY1C_SY1Q7Gagq8TvQoAi2dwAaHn8&usqp=CAU",
+      "https://firebasestorage.googleapis.com/v0/b/clone-app-3ff66.appspot.com/o/images%2Frose-165819_1920.jpg?alt=media&token=14f8bb1e-f79d-418a-a065-c2e37c07ca10",
     title: "Title 2",
     subTitle: "subtitle 2",
   },
   {
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW9fiiDaybFia1CdkwLMUlmQnT8cI0jagFmSFVpJQF7-GSAXKp8nypXdYTTHBW_HTHeBU&usqp=CAU",
+      "https://firebasestorage.googleapis.com/v0/b/clone-app-3ff66.appspot.com/o/images%2Fyoung-woman-1149643_1920.jpg?alt=media&token=19e0e21e-f76d-435a-ab4e-d02efd182c40",
     title: "Title 3",
     subTitle: "subtitle 3",
   },
   {
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6R6bjk11fol5DQC87zR-vDLrUNxa4Bqn9RdQC0bMjvd-_YQhBDRx_anvUZ-LuRGBp2k&usqp=CAU",
+      "https://firebasestorage.googleapis.com/v0/b/clone-app-3ff66.appspot.com/o/images%2Frose-165819_1920.jpg?alt=media&token=14f8bb1e-f79d-418a-a065-c2e37c07ca10",
     title: "Title 4",
     subTitle: "subtitle 4",
   },
   {
     image:
-      "https://mainwebstorage.blob.core.windows.net/mediacontainers/styles/1920x1400/azure/2022-05/Koenigsegg%20Gemera_01%20copy.jpg?h=2e930402&itok=YveuLY7M",
+      "https://firebasestorage.googleapis.com/v0/b/clone-app-3ff66.appspot.com/o/images%2Fyoung-woman-1149643_1920.jpg?alt=media&token=19e0e21e-f76d-435a-ab4e-d02efd182c40",
     title: "Title 5",
     subTitle: "subtitle 5",
   },
   {
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLawsUdSIJiyPE3D07JsKNoax0bZfaFBF5aKEb1m7dHg9toaLT-uz58G4wWnKlqa2K2Fw&usqp=CAU",
+      "https://firebasestorage.googleapis.com/v0/b/clone-app-3ff66.appspot.com/o/images%2Fmarguerite-729510_1920.jpg?alt=media&token=1c941d1f-615c-4dd5-9a23-99ec1c97d0cb",
     title: "Title 6",
     subTitle: "subtitle 6",
   },
   {
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ76blIlcZzGreoOw-hyFQs7DCNT84THPtj8b42OR9wxgDrI6iyhBoY3PlRnw7HAXcd7Oc&usqp=CAU",
+      "https://firebasestorage.googleapis.com/v0/b/clone-app-3ff66.appspot.com/o/images%2Fbouquet-142876_1920.jpg?alt=media&token=0405f2ff-58e8-4592-8280-e7151650b2ce",
     title: "Title 7",
     subTitle: "subtitle 7",
   },
   {
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjwicIF9OrR-vLpCLElMRRtlmCIOkCUwfo5CMP2OdEQ-x49U88UaN0mQ2IpdjNgOB_40&usqp=CAU",
+      "https://firebasestorage.googleapis.com/v0/b/clone-app-3ff66.appspot.com/o/images%2Fmarguerite-729510_1920.jpg?alt=media&token=1c941d1f-615c-4dd5-9a23-99ec1c97d0cb",
     title: "Title 8",
     subTitle: "subtitle 8",
   },
   {
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlV9hNogh4LoibIxF4eCAcikOgAli_KrQC73yaH-aDdtsFQCvys0vRv2uWl8aA5CUKX2o&usqp=CAU",
+      "https://firebasestorage.googleapis.com/v0/b/clone-app-3ff66.appspot.com/o/images%2Fbouquet-142876_1920.jpg?alt=media&token=0405f2ff-58e8-4592-8280-e7151650b2ce",
     title: "Title 9",
     subTitle: "subtitle 9",
   },
   {
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjhdTjrGFoeVDwPOtuH3vUGiHc4mkKzLy9TrN7ALjaGaUk_ixpv1lnrut9EB4VIBaJ_ic&usqp=CAU",
+      "https://firebasestorage.googleapis.com/v0/b/clone-app-3ff66.appspot.com/o/images%2Fmarguerite-729510_1920.jpg?alt=media&token=1c941d1f-615c-4dd5-9a23-99ec1c97d0cb",
     title: "Title 10",
     subTitle: "subtitle 10",
   },

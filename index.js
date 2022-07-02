@@ -8,7 +8,7 @@ app.use(express.json());
 app.use(morgan("dev"));
 app.use(cors());
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3600;
 
 app.get("/api/carousel", (req, res) => {
   console.log(req.query);
